@@ -17,6 +17,8 @@
   <div class="data">name: {pkg.name}</div>
   <div class="data">version: {pkg.version}</div>
 
+  <h5>master write...</h5>
+
   <hr />
 
   <!-- <UserList /> -->
@@ -31,5 +33,10 @@
 
   h2 {
     color: darkorchid;
+  }
+
+  h5 {
+    background-color: chocolate;
+    color: white;
   }
 </style>
